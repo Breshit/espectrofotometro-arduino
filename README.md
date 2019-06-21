@@ -15,7 +15,7 @@ Esse repositório faz parte de um projeto de pesquisa desenvolvido no Instituto 
 * Para adquirir e armazenar os dados, usa-se um aplicativo, que pode ser baixado [aqui](www.google.com). 
 
 ### Instruções do aplicativo
-blebleble
+Veja em https://github.com/shCampos/app-fotometro.git
 
 ## Licença
 Esse projeto está sob a Licença MIT, conforme o arquivo ```LICENSE```.
